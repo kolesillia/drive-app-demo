@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="Home.HelloText.Morning">Доброе утро</string>
+    <string name="Home.HelloText.Afternoon">Добрый день</string>
+    <string name="Home.HelloText.Evening">Добрый вечер</string>
+    <string name="Home.HelloText.Night">Доброй ночи</string>
+    <string name="Home.HelloText.Other">Привет</string>
+    <string name="Home.SignInLabel">Войти чтобы получить все функции приложения</string>
+    <string name="Home.LowerButton.1">Штраф за оплату</string>
+    <string name="Home.LowerButton.2">Плата за вождение</string>
+
+    <string name="Menu.SignIn">Войти</string>
+    <string name="Menu.Or">или</string>
+    <string name="Menu.CreateAccount">создать аккаунт</string>
+    <string name="Menu.CheckPay">Проверить мои задолжности</string>
+    <string name="Menu.Settings">Настройки</string>
+    <string name="Menu.Terms">Условия пользования</string>
+    <string name="Menu.PriPolicy">Политика конфиденциальности</string>
+    <string name="Menu.Tfl">Tfl Плати за езду Лондон</string>
+    <string name="SingIn.Label">Войти в аккаунт</string>
+    <string name="SignIn.CustomerID">ID клиента</string>
+    <string name="SingIn.Password">Пароль</string>
+    <string name="SignIn.ForgotPassword">Забыли пароль?</string>
+    <string name="SignIn.SignInButton">Войти</string>
+    <string name="SignIn.DontHaveAccount">Нет учетной записи дорожного пльзовотеля для оплаты услуг?</string>
+    <string name="SignIn.CreateAccount">Создать аккаунт</string>
+</resources>

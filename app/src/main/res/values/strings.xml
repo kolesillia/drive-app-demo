@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">Tfl: Pay to Drive</string>
+
+    <string name="Home.HelloText.Morning">Good morning</string>
+    <string name="Home.HelloText.Afternoon">Good afternoon</string>
+    <string name="Home.HelloText.Evening">Good evening</string>
+    <string name="Home.HelloText.Night">Good eight</string>
+    <string name="Home.HelloText.Other">Hello</string>
+    <string name="Home.SignInLabel">Sing in to account to get full app benefits</string>
+    <string name="Home.LowerButton.1">Pay penalty</string>
+    <string name="Home.LowerButton.2">Pay to drive</string>
+    
+    <string name="Menu.SignIn">Sign in</string>
+    <string name="Menu.Or">or</string>
+    <string name="Menu.CreateAccount">create an account</string>
+    <string name="Menu.CheckPay">Check what I need to pay</string>
+    <string name="Menu.Settings">Settings</string>
+    <string name="Menu.Terms">Terms &amp; conditions</string>
+    <string name="Menu.PriPolicy">Privacy policy</string>
+    <string name="Menu.Tfl">Tfl Pay to Drive in London</string>
+    <string name="SingIn.Label">Sign in to your account</string>
+    <string name="SignIn.CustomerID">Customer ID</string>
+    <string name="SingIn.Password">Password</string>
+    <string name="SignIn.ForgotPassword">Forgot password?</string>
+    <string name="SignIn.SignInButton">Sign in</string>
+    <string name="SignIn.DontHaveAccount">Don\'t have a London Road User charging account?</string>
+    <string name="SignIn.CreateAccount">Create Account</string>
+
+</resources>
