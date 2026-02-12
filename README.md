@@ -11,11 +11,11 @@ This is the repository for **TFL: Pay to Drive** android **demo** application. T
 ---
 
 ## Features
-- **User Authentication:** Sign in to existing accounts or create a new London Road User charging account.
-- **Drive Payments:** Easily pay to drive in regulated zones.
-- **Penalty Management:** Check and pay for any outstanding penalties.
-- **Multi-language Support:** Currently supports English and Russian.
-- **Modern UI:** Built with Jetpack Compose and Material 3 for a fluid user experience.
+- [x] **User Authentication:** Sign in to existing accounts.
+- [x] **Multi-language Support:** Currently supports English and Russian.
+- [x] **Compose UI:** Built with Jetpack Compose and Material 3.
+- [ ] **Additional Screens:** Create Account, Settings
+- [ ] **Proper API Support**: Use functioning url for http calls
 
 ---
 
