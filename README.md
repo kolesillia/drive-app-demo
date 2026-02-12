@@ -32,7 +32,7 @@ This is the repository for **TFL: Pay to Drive** android **demo** application. T
 ## Running from source
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/TFL-Android-App.git
+   git clone https://github.com/kolesillia/drive-app-demo.git
    ```
 2. **Open the project:**
    Open Android Studio and select **File > Open**, then navigate to the cloned directory.
