@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-This is the repository for **TFL: Pay to Drive** android **demo** application. This app aims to provide a convenient way for users to manage their London Road User charging accounts, pay for driving, and handle penalties.
+This is the repository for **Pay to Drive** android **demo** application. This app aims to provide a convenient way for users to manage their London Road User charging accounts, pay for driving, and handle penalties.
 
 > **Note:** This is a work-in-progress. Expect some features to be missing and potential software bugs.
 
